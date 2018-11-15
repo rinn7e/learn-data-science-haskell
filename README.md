@@ -6,7 +6,7 @@
 - using virtual env
 - follow official instruction on jupyter repo
 
-#### Install IHaskell, and put this folder inside it:
+#### Install IHaskell, and put this repo inside its directory(name can be anything) inside it:
 - Follow instruction in here: https://github.com/gibiansky/IHaskell/blob/master/README.md#where-are-my-packages-ihaskell--stack
 
 
